@@ -23,7 +23,3 @@ class Scraper
   end
   
 end
-
-Scraper.new.get_page
-doc.css(".post").first.css("h2").text
-doc.css(".post").first.css(".date").text
